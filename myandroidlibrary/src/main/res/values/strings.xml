@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroidLibrary</string>
+    <string name="empty_txt"> No text to display</string>
+    <string name="jokeEnvelope">jokeEnvelope</string>
+</resources>
